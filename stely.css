@@ -1,0 +1,207 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: 'gilroy-bold' ;
+    src: url("./fonts/gilroy-bold.ttf");
+}
+
+@font-face {
+    font-family: 'gilroy-medium';
+    src: url("./fonts/gilroy-medium.ttf");
+}
+
+   
+body{
+    width: 1920px;
+    height: 700px;
+    background: #FFF;
+    flex-shrink: 0;
+    font-family: 'Gilroy-Bold';
+
+}
+
+.top{
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.top-content{
+    width: 1289px;
+    height: 114px;
+    
+}
+
+.Grow{
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Be{
+    color: #F25822;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.menu{
+    padding-left: 658px;
+    padding-top: 0px;
+    font-size: 14px;
+    display: flex;
+}
+
+.home_menu{
+    color: #F25822;
+    
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+}
+
+.menu_AboutUs{
+    color: #000;
+    
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display:flex;
+}
+
+
+.header_button{
+    padding-left: 1100px;
+    
+    
+}
+.button_GetStarted{
+    width: 120px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: #F25822;
+    
+}
+
+.info_h1{
+    width: 522px;
+    height: 222px;
+    color: #000;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 150px;
+}
+
+.info_p{
+    width: 466px;
+    height: 48px;
+    color: #888;
+    font-family: 'gilroy-medium';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 150px;
+}
+
+.button_Now{
+    padding-top: 100px;
+}
+.Start_Now{
+    width: 140px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+    color: #FFF;
+    font-family: 'Gilroy-Bold';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+
+.top__buttons{
+    padding-top: 10px;
+}
+
+.icon_img{
+   padding-left: 10px;
+   
+}
+
+.Watch_Video{
+    width: 90px;
+    height: 19px;
+    color: #AAA;
+    font-family: 'Gilroy-Bold';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 15px;
+}
+   
+.pngfind{
+    width: 544.814px;
+    height: 374.843px;
+    flex-shrink: 0;
+}
+
+.pngfind_img{
+    position: absolute;
+    top: 300px;
+    left: calc(100% - 800px);
+}
+
+.top__logo{
+    padding-top: 216px;
+    
+}
+
+.logo_img1{
+    width: 160px;
+    height: 50px;
+    flex-shrink: 0;
+    
+}
+
+.logo_img6{
+    width: 160px;
+    height: 50px;
+    flex-shrink: 0;
+    padding-left: 48px; 
+}
+
+.logo_img3{
+    width: 160px;
+    height: 50px;
+    flex-shrink: 0;
+    padding-left: 48px; 
+}
+
+.logo_img4{
+    width: 160px;
+    height: 50px;
+    flex-shrink: 0;
+    padding-left: 48px;
+}
+
+.logo_img5{
+    width: 160px;
+    height: 50px;
+    flex-shrink: 0;
+    padding-left: 48px;
+}
